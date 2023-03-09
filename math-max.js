@@ -8,6 +8,7 @@ console.log(max);
 var num1 = 10;
 var num2 = 12;
 var num3 = 14;
+
 //we can call three variable in math.max function
 var max2 = Math.max(num1, num2, num3);
 console.log(max2);
